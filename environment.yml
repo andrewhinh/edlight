@@ -1,0 +1,9 @@
+name: edlight
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.4
+  - pip=23.3
+  - cudatoolkit=11.4.8
+  - cudnn=8.9.2.26
